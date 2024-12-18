@@ -1,0 +1,39 @@
+
+.label {
+    width: 567px;
+    height: 288px;
+}
+
+.label .streamline-your {
+    position: fixed;
+    width: 567px;
+    top: 0;
+    left: 0;
+    font-family: var(--display-medium-font-family);
+    font-weight: var(--display-medium-font-weight);
+    color: transparent;
+    font-size: var(--display-medium-font-size);
+    letter-spacing: var(--display-medium-letter-spacing);
+    line-height: var(--display-medium-line-height);
+    font-style: var(--display-medium-font-style);
+}
+
+.label .text-wrapper {
+    color: #000000;
+    font-family: var(--display-medium-font-family);
+    font-style: var(--display-medium-font-style);
+    font-weight: var(--display-medium-font-weight);
+    letter-spacing: var(--display-medium-letter-spacing);
+    line-height: var(--display-medium-line-height);
+    font-size: var(--display-medium-font-size);
+}
+
+.label .span {
+    color: #0a2472;
+    font-family: var(--display-medium-font-family);
+    font-style: var(--display-medium-font-style);
+    font-weight: var(--display-medium-font-weight);
+    letter-spacing: var(--display-medium-letter-spacing);
+    line-height: var(--display-medium-line-height);
+    font-size: var(--display-medium-font-size);
+}

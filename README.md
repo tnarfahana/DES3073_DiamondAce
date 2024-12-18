@@ -1,3 +1,5 @@
+# DES3073_DiamondAce
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -6,6 +8,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+## About DES3073_DiamondAce
+
+**DES3073_DiamondAce** is a project for the course **Software Engineering** at Universiti Pendidikan Sultan Idris. This project aims to develop a web-based system for managing housing applications, rental agreements, and complaints for students. The project uses the Laravel framework for back-end development and integrates key features such as student profile management, home owner registration, and advertisement handling.
+
+### Features
+- **Student Profile Management**: Manage and update student profiles.
+- **Home Owner Registration**: Register and manage home owner profiles.
+- **Housing Application**: Students can apply for available accommodations.
+- **Advertisement Management**: Home owners can post and manage accommodation advertisements.
+- **Complaint Handling**: Students can submit and track complaints.
 
 ## About Laravel
 
